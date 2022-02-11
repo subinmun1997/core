@@ -10,6 +10,6 @@
 |:----:|:----:|:--------:|
 | ✅ | 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 | [스프링 입문](https://github.com/subinmun1997/inflearn-spring) |
 | ✅ | 스프링 핵심 원리 - 기본편 | [spring core](https://github.com/subinmun1997/inflearn-spring-core) |
-|  | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 |  |
+| ✅ | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 | [spring mvc](https://github.com/subinmun1997/inflearn-spring-mvc) |
 |  | 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 |  |
 |  | 스프링 핵심 원리 - 고급편 |  |
