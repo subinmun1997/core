@@ -18,3 +18,4 @@
 | spring-mvc demo | 디렉토리 |
 |:---------------:|:--------:|
 | study mvc | [spring mvc](https://github.com/subinmun1997/springmvc-demo) |
+| study mvc | [item-service-crud](https://github.com/subinmun1997/springmvc-basic-crud) |
